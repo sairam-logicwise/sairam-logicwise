@@ -16,40 +16,62 @@ I focus on:
 
 ---
 
-## 🛠️ Core Stack
+## 🛠️ Core Stack & Technologies
 
-### Frontend Architecture
+### Frontend & UI Architecture
 
 <p align="left">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs" />
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react" />
+  <img src="https://img.shields.io/badge/Preact-673AB7?style=for-the-badge&logo=preact&logoColor=white" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwindcss" />
+  <img src="https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=mui&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/Framer_Motion-000000?style=for-the-badge" />
 </p>
 
+_Ecosystem & State Management:_ React Router Dom, Redux, Redux Thunk, Redux Toolkit, Ramda.js
 
-### Backend & Data
+### Backend, Database & APIs
 
 <p align="left">
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
   <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_API-000000?style=for-the-badge" />
 </p>
 
-### DevOps & Infrastructure
+_Expertise:_ Firebase (Firestore, Realtime DB, Deployment), WebSockets, REST APIs, Medusa.js
+
+### Cloud, DevOps & Infrastructure
 
 <p align="left">
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </p>
 
+_Services Utilized:_ AWS (EC2, S3, CloudFront), GitHub Actions, CI/CD Pipelines
+
+---
+
+## 💼 Solutions & Integrations
+
+Beyond standard web development frameworks, I have extensive experience with custom solutions and robust third-party integrations:
+
+- **E-Commerce & Payments:** Implementation of Stripe and Razorpay payment gateways; comprehensive experience using Medusa.js for headless commerce.
+- **Performance & Optimization:** Conducting deep-dive Lighthouse Audits, implementing advanced SEO practices, and expertly converting static ThemeForest templates into highly performant React/Next.js applications.
+- **Automation & Bots:** Engineering custom Telegram Bots, creating WhatsApp Automate Templates, and establishing automated workflows for Amazon Affiliates.
+- **Advanced Integrations:** Building and utilizing Model Context Protocol (MCP) servers to power robust AI capabilities.
+
+---
 
 ## 🚀 Featured Projects
 
