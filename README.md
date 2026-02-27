@@ -1,18 +1,8 @@
-# Hi there 👋
+# Hi there! 👋
 
-## Full-Stack Engineer | Frontend Architecture Specialist | Next.js & React Expert
+## Full-Stack Engineer | Frontend Architecture Specialist | Next.js & React Expert | AI Integration Specialist
 
-I’m Sairam, a full-stack engineer with 7+ years of experience building scalable production-grade applications.
-
-I specialize in architecting high-performance frontend systems using Next.js and React, while maintaining strong backend alignment with PostgreSQL, Supabase, and modern cloud infrastructure.
-
-I focus on:
-
-- Scalable frontend architecture (RSC, Hydration, Streaming)
-- Mobile-first premium UI systems
-- Database modeling & RLS security
-- CI/CD & production deployments
-- Performance optimization & caching strategy
+Full-Stack Engineer with 6.5+ years of experience designing, developing, and deploying scalable production-grade applications. I specialize in architecting high-performance frontend systems using Next.js and React, alongside modern backend infrastructures with PostgreSQL, Supabase, and Node.js. Passionate about integrating cutting-edge AI capabilities into applications—with expert proficiency in building and connecting to Model Context Protocol (MCP) servers, orchestrating autonomous AI agents, and leveraging advanced developer tools like Antigravity, Claude Code, and GitHub Copilot to drive innovation and exponentially accelerate development.
 
 ---
 
@@ -81,25 +71,6 @@ Beyond standard web development frameworks, I have extensive experience with cus
 
 ---
 
-## 🚀 Featured Projects
-
-### 🛒 Dev Storefront
-
-Production-grade eCommerce frontend built using Next.js App Router with optimized caching and SEO architecture.  
-🔗 https://dev-storefront.thefinebox.com/
-
-### 🧿 Gajari
-
-Modern scalable web platform focused on performance-first UI and responsive system design.  
-🔗 https://gajari.com/
-
-### 🎯 DareDrop
-
-Interactive web platform with structured UI architecture and scalable frontend logic.  
-🔗 https://daredrop.com/
-
----
-
 ## 🧠 Engineering Philosophy
 
 - Build for scale from Day 1
@@ -118,3 +89,4 @@ Interactive web platform with structured UI architecture and scalable frontend l
 ---
 
 ⭐ Always open to high-ownership, product-driven roles.
+🌱 Continuously learning and empowering others through mentorship and collaboration.
