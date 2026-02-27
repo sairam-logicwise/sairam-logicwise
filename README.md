@@ -89,4 +89,5 @@ Beyond standard web development frameworks, I have extensive experience with cus
 ---
 
 ⭐ Always open to high-ownership, product-driven roles.
+
 🌱 Continuously learning and empowering others through mentorship and collaboration.
